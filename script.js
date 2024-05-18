@@ -18,5 +18,5 @@ function clearDisplay() {
 }
 
 function redirect() {
-    window.location.href = 'https://nirjalcodes.com'; // Update with actual URL if available
+    window.location.href = 'https://github.com/NirjalCodes'; // 
 }
